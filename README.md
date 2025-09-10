@@ -29,6 +29,8 @@ This project explores the factors influencing Anxiety Levels (1–10) in society
 
 - Therapy & Lifestyle Page → Effect of Therapy, Diet, Stress
 
+- Data Viz Link (https://app.powerbi.com/groups/me/reports/4f51c8c9-9c4b-4dfb-b286-4b0fdb21072a/a31a57db71c61396ad58?experience=power-bi)
+
 ## Modeling
 
 - Machine learning models (Regression) used: Linear Regression, Random Forest Regressor
