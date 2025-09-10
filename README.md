@@ -15,16 +15,7 @@ This project explores the factors influencing Anxiety Levels (1–10) in society
 ## Dataset
 - Size: 22,000 records
 
-- Columns: 19 features, including:
-
-Age, Gender, Occupation
-
-Sleep Hours, Physical Activity, Caffeine/Alcohol intake, Smoking
-
-Stress, Heart Rate, Breathing Rate, Sweating, Therapy Sessions
-
-Family History, Major Life Events, Diet Quality
-
+- Columns: 19 features, including: Age, Gender, Occupation, Sleep Hours, Physical Activity, Caffeine/Alcohol intake, Smoking, Stress, Heart Rate, Breathing Rate, Sweating, Therapy Sessions, Family History, Major Life Events and Diet Quality
 - Target: Anxiety Level (1–10)
 
 ## Visualizations (Power BI Dashboard)
@@ -40,12 +31,7 @@ Family History, Major Life Events, Diet Quality
 
 ## Modeling
 
-- Machine learning models (Regression) used:
-
-Linear Regression
-
-Random Forest Regressor
-
+- Machine learning models (Regression) used: Linear Regression, Random Forest Regressor
 - Metrics: RMSE, MAE, R²
 
 ## Results
@@ -53,11 +39,7 @@ Random Forest Regressor
 
 - Physical activity and therapy sessions reduce anxiety levels.
 
-- Final Model Performance:
-
-Train RMSE: 1.38 | Test RMSE: 1.36
-
-Train R²: 0.69 | Test R²: 0.70
+- Final Model Performance: Train RMSE: 1.38 | Test RMSE: 1.36, Train R²: 0.69 | Test R²: 0.70
 
 ## Insights & Recommendations
 - Promote stress management and better sleep hygiene.
