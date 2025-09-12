@@ -38,4 +38,6 @@ This project explores the factors influencing Anxiety Levels (1–10) in society
 - Reduce reliance on alcohol, caffeine, and smoking.
 - Increase access to affordable therapy and mental health services.
 
-## Deployment
+## Deployment Overview
+This project features a machine learning model designed to detect signs of social anxiety based on user input. The model was trained and serialized as a .pkl file, and deployed using a Streamlit web application.
+- Deployment Link (https://society-anxiety-hzcwgk4rjzmuhyxgdsay39.streamlit.app)
